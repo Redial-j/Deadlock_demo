@@ -1,4 +1,0 @@
-/home/jjjxs/code/deadlock_demo/day2/build/CMakeFiles/rebuild_cache.dir
-/home/jjjxs/code/deadlock_demo/day2/build/CMakeFiles/edit_cache.dir
-/home/jjjxs/code/deadlock_demo/day2/build/CMakeFiles/deadlock_detector.dir
-/home/jjjxs/code/deadlock_demo/day2/build/CMakeFiles/test_detection.dir
