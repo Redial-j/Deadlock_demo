@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdeadlock_detector.a  CMakeFiles/deadlock_detector.dir/src/deadlock_detector.cpp.o CMakeFiles/deadlock_detector.dir/src/graph.cpp.o
+/usr/bin/ranlib libdeadlock_detector.a
