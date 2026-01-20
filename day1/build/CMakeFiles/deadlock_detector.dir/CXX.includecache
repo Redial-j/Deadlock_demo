@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/deadlock_detector.h
+pthread.h
+-
+stdint.h
+-
+map
+-
+string
+-
+mutex
+-
+sys/syscall.h
+-
+unistd.h
+-
+
+/home/jjjxs/code/deadlock_demo/day1/src/deadlock_detector.cpp
+deadlock_detector.h
+/home/jjjxs/code/deadlock_demo/day1/src/deadlock_detector.h
+iostream
+-
+iomanip
+-
+
