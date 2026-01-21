@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -Wall -g   CMakeFiles/test_background.dir/test/test_background.cpp.o  -o test_background libdeadlock_detector.a -lpthread 
